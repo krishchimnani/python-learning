@@ -1,2 +1,3 @@
 # python-learning
-bluh bluh bluh.......
+basics to advance 
+
